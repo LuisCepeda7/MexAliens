@@ -1,4 +1,4 @@
-Copia este bloque único y pégalo directamente en tu archivo **`README.md`** (`Ctrl + A` -> `Ctrl + V` -> `Ctrl + S`):
+
 
 ```markdown
 # MEXALIENS // BIO-SHIELD 3D (A.R.E.S.)
